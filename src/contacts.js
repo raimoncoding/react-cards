@@ -31,7 +31,15 @@ const contacts = [
     phone: "+088 369 412",
     email: "gmail@gwenstefani.com"
   },
-  "https://www.kekmama.nl/app/uploads/2022/03/gwen-stefani-celeb-college.jpg"
+  {
+    id: "5",
+    name: "Anne Frank",
+    imgURL:
+    "https://annefrank.freetls.fastly.net/media/filer_public_thumbnails/filer_public/8b/c0/8bc0d1ba-754a-46b5-9ecb-09933e4d323a/anne-frank-hoofdpersonen-header.jpg__1280x1280_q85_crop_subsampling-2_upscale.jpg",
+    phone: "+0316 909 565",
+    email: "gmail@annefrankhouse.com"
+  }
+
 ];
 
 export default contacts;
